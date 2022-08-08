@@ -1,9 +1,9 @@
 const cacheName = "Inventor Kidz Inc.-WorldCreate-0.1.0";
 const contentToCache = [
     "Build/WorldCreate.loader.js",
-    "Build/WorldCreate.framework.js.br",
-    "Build/WorldCreate.data.br",
-    "Build/WorldCreate.wasm.br",
+    "Build/WorldCreate.framework.js.unityweb",
+    "Build/WorldCreate.data.unityweb",
+    "Build/WorldCreate.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
